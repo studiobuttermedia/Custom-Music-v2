@@ -20,7 +20,7 @@ Once you're done, you can either copy the entire Folder to Minecraft Resource Pa
 
 After that, double click on the file to import.
 
-**NOTE**: If you have more than one version of Minecraft and your device doesn't know which one to import, you can fall back to manual import by copying the folder that you modify
+**NOTE**: If you have more than one version of Minecraft and your device doesn't know which one to import, you can fall back to manual import by copying the pack folder that you modify
 
 To do manual import, do the following
 
@@ -30,15 +30,15 @@ To do manual import, do the following
 
 - Paste this in, it depends on which version you're on
 
-Minecraft:
+#### Minecraft:
 
 ```%localappdata%/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/resource_packs/```
 
-Minecraft Preview:
+#### Minecraft Preview:
 
 ```%localappdata%/Packages/Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe/LocalState/games/com.mojang/resource_packs/```
 
-Minecraft Education:
+#### Minecraft Education:
 
 **PC Microsoft Store Deploy/Pre-install**
 
@@ -51,5 +51,9 @@ Minecraft Education:
 ### For iOS
 
 Open Files, Choose the version you want to import, either Minecraft, Minecraft Preview or Minecraft Education then go to `games/com.mojang/resource_packs/` and import the Folder there.
+
+After importing, if you wish to change the audio, make sure to unload the pack from your Minecraft World, close the game and go to the Resource Pack Folder -> Custom Disc -> `sounds/music/game/records` and change your Audio there.
+
+Future documentation will explain how to create multiple version of the Custom Music Packs to your liking!
 
 Once imported, you can listen to your Custom Discs in Minecraft. Have fun listening to Lo-fi while Mining!
