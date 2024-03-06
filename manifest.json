@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Replace Record Sounds with Music",
+        "name": "Custom Record Disc v2",
+        "uuid": "75f87b57-949c-4f0e-b9e5-7885bb7345fe",
+        "version": [2, 0, 0],
+        "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+        {
+            "description": "Replace Record Sounds with Music",
+            "type": "resources",
+            "uuid": "aec320f3-438b-404c-9cf5-fe950f6d7d2b",
+            "version": [2, 0, 0]
+        }
+    ]
+}
