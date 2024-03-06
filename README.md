@@ -1,6 +1,8 @@
 # Custom Music Disc v2
 
-This is an old project that I decided to revive again, it's been a while I start revive one of my old projects
+This is an old project that I decided to revive again, it's been a while I start revive one of my old projects. 
+
+This is a Bedrock Edition Resource Pack that allows you to use Custom Music Discs in Minecraft!
 
 **Sample Audio provided is from Kevin MecLeod music which is Copyright free. But it's your own choice to add your own**
 
@@ -57,3 +59,5 @@ After importing, if you wish to change the audio, make sure to unload the pack f
 Future documentation will explain how to create multiple version of the Custom Music Packs to your liking!
 
 Once imported, you can listen to your Custom Discs in Minecraft. Have fun listening to Lo-fi while Mining!
+
+(Minecraft Education may be deployed by your School, please request the school or teacher's permission before adding this pack to your world/school projects. If you're device not signed from your school account and you have Minecraft Education installed, it may come pre-installed by your PC Manufacturer, you can uninstall it and use any other version you want)
